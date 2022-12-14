@@ -1,5 +1,6 @@
 # Git workflow with conventional commits and semantic auto release
 
+<script src="https://gist.github.com/vtenq/7a93687108cb876f884c3ce75a8a8023.js"></script>
 This is an adoptation of [Git flow by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
 with conventional commits and semantic release.
 
